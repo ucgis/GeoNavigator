@@ -74,7 +74,15 @@
     transform: translateX(-3px);
   }
 }
-
+/* Aux links */
+.aux-nav-list-item a {
+color: #005581;
+}
+ 
+/* Hover state */
+.aux-nav-list-item a:hover {
+color: #FFB511;
+}
 // ============================================
 // HOME PAGE
 // ============================================
