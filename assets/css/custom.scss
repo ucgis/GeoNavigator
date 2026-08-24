@@ -37,7 +37,20 @@ a:visited {
     transform: translateY(-5px);
   }
 }
+/* General links */
+a {
+  color: #005581;
+}
 
+/* Hover state */
+a:hover {
+  color: #FFB511;
+}
+
+/* Visited links */
+a:visited {
+  color: #1295D8;
+}
 // ============================================
 // NAVIGATION HEADER
 // ============================================
