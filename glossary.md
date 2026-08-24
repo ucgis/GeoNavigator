@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <h1 style="color: 005581;">Glossaries & Definitions</h1>
+title: Glossaries & Definitions
 nav_order: 3
 ---
 # Glossaries & Definitions
