@@ -186,7 +186,20 @@ color: #FFB511;
     }
   }
 }
+/* General links */
+a {
+  color: #005581;
+}
 
+/* Hover state */
+a:hover {
+  color: #FFB511;
+}
+
+/* Visited links */
+a:visited {
+  color: #1295D8;
+}
 // ============================================
 // QUESTION PAGE
 // ============================================
@@ -229,7 +242,20 @@ color: #FFB511;
   border-radius: 0.75rem;
   border-left: 4px solid #FFB511;
 }
+/* General links */
+a {
+  color: #005581;
+}
 
+/* Hover state */
+a:hover {
+  color: #FFB511;
+}
+
+/* Visited links */
+a:visited {
+  color: #1295D8;
+}
 // ============================================
 // RESOURCE PAGE
 // ============================================
@@ -393,7 +419,20 @@ color: #FFB511;
     }
   }
 }
+/* General links */
+a {
+  color: #005581;
+}
 
+/* Hover state */
+a:hover {
+  color: #FFB511;
+}
+
+/* Visited links */
+a:visited {
+  color: #1295D8;
+}
 // ============================================
 // CARDS GRID
 // ============================================
@@ -569,7 +608,20 @@ color: #FFB511;
   transition: all 0.3s ease;
   line-height: 1;
 }
+/* General links */
+a {
+  color: #005581;
+}
 
+/* Hover state */
+a:hover {
+  color: #FFB511;
+}
+
+/* Visited links */
+a:visited {
+  color: #1295D8;
+}
 // ============================================
 // RESPONSIVE DESIGN
 // ============================================
