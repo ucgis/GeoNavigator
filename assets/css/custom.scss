@@ -2,17 +2,15 @@
 ---
 /* General links */
 a {
-  color: #005581;
+  color: #005581 !important;
 }
 
-/* Hover state */
 a:hover {
-  color: #FFB511;
+  color: #FFB511 !important;
 }
 
-/* Visited links */
 a:visited {
-  color: #1295D8;
+  color: #1295D8 !important;
 }
 // ============================================
 // ANIMATIONS & TRANSITIONS
