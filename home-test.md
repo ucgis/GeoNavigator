@@ -33,7 +33,6 @@ layout: home
       </div>
       {% endif %}
       
-<div class="cards-grid">
       {% assign start_question = site.resources | where: "slug", "finding-gis-data" | first %}
       {% if start_question %}
       <div class="card card-featured card-resources">
@@ -52,7 +51,7 @@ layout: home
       </div>
       {% endif %}
 
-    <div class="cards-grid">
+
       {% assign start_question = site.questions | where: "slug", "choose-a-platform" | first %}
       {% if start_question %}
       <div class="card card-featured card-question">
