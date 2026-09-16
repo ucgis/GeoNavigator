@@ -48,8 +48,10 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer content
-footer_content: >
-  University of California GeoConnect Working Group
+footer_content: 
+  <p>Need Help?</p>
+  <p>If you have questions or need assistance, <a href="https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing">please contact us!</a></p>
+  <p>University of California GeoConnect Working Group</p>
   <p>
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
        target="_blank"
