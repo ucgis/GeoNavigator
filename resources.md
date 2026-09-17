@@ -5,7 +5,8 @@ nav_order: 5
 ---
 <details>
   <summary><strong>Table of Contents</strong></summary>
-
+{: .no_toc }
+  
 * TOC
 {:toc}
 
