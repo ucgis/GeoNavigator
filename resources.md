@@ -21,7 +21,7 @@ Below is a list of resources found throughout the GeoNavigator site. As GeoNavig
 
 * [Add Join (Data Management)](https://pro.arcgis.com/en/pro-app/3.4/tool-reference/data-management/add-join.htm)   
   * Tool-based documentation   
-* [Join tabular data to a spatial layer](https://learn.arcgis.com/en/projects/join-tabular-data-to-a-spatial-layer/)    
+* [Join tabular data to a spatial layer](https://learn.arcgis.com/en/projects/join-tabular-data-to-a-spatial-layer/)  
   * A 15 minute tutorial that has you join a CSV of data to a layer in ArcGIS Pro
 
 ##### ArcGIS Online
