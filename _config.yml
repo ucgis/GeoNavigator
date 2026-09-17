@@ -49,9 +49,9 @@ back_to_top_text: "Back to top"
 
 # Footer content
 footer_content: 
-  <p>Need Help?</p>
-  <p>If you have questions or need assistance, <a href="https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing">please contact us!</a></p>
-  <p>University of California GeoConnect Working Group</p>
+  <p>**Need Help?**</p>
+  <p>If you have questions or need assistance, [please contact a UC GIS Specialist at your campus]<a href="https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing">.</a></p>
+  <p>Site Created by the [University of California GeoConnect Working Group](a href="https://community-ucgis.hub.arcgis.com/pages/geoconnect"</p>
   <p>
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
        target="_blank"
