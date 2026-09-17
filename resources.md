@@ -4,6 +4,14 @@ title: Resource List
 nav_order: 5
 ---
 
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
+
+## Resources in GeoNavigator
+Below is a list of resources found throughout the GeoNavigator site. As GeoNavigator continues to grow and expand, this page too will grow. Check back for new resources
 
 ### Administrative Units
 #### Tool-specific Documentation Links 
@@ -87,8 +95,33 @@ nav_order: 5
 *[Create points on a map (ArcGIS Pro)](https://doc.esri.com/en/arcgis-pro/latest/get-started/create-points-on-a-map.html)  
 * [Create features in QGIS](https://docs.qgis.org/3.44/en/docs/training_manual/create_vector_data/create_new_vector.html) 
 
-### Working with Latitude and Longitude Data in GIS.
+### Working with Latitude and Longitude Data in GIS
 * [Lat-Long Graphic](https://en.wikipedia.org/wiki/Geographic_coordinate_system#/media/File:FedStats_Lat_long.svg)   
 * [Formula for converting Degrees Minutes Seconds to Decimal Degrees](https://www.latlong.net/degrees-minutes-seconds-to-decimal-degrees)  
 * [UTM to Latitude and Longitude Convertor](https://www.ngs.noaa.gov/NCAT/)  
 * [Map Projections](https://gistbok-ltb.ucgis.org/page/current/concept/CV-03-006)
+
+## General Resources
+These resources are not tied to any specific pages. But these resources are either created by or used commonly by geospatial librarians and staff to support the wide range of geospatial uses.
+
+### Library Guides
+* [UCB GIS (Geographic Information Systems) & Remote Sensing](https://guides.lib.berkeley.edu/gis)
+* [UCD DataLab](https://datalab.ucdavis.edu/research-toolkits/)
+* [UCI Geographic Information Systems (GIS) Guide](https://guides.lib.uci.edu/gis)
+* [UCLA Geographic Information Systems (GIS) Data and Tutorials](https://guides.library.ucla.edu/gis)
+* [UCM GIS Center](https://library.ucmerced.edu/gis)
+* [UCR Maps and GIS: Maps & Other Geospatial Resources](https://guides.lib.ucr.edu/c.php?g=171041)
+* [UCSD GIS & Geospatial Technologies](https://ucsd.libguides.com/gis)
+
+### StoryMaps
+* [StoryMaps Guide](https://guides.lib.uci.edu/storymaps)
+  
+### Workshops
+* [UCD Map Time Davis](https://maptimedavis.github.io/)
+
+### Videos
+* [UC GIS Week](https://www.youtube.com/@ucgisweek4596)
+* [UCR Geospatial Youtube](https://www.youtube.com/playlist?list=PLaDWxNwvAu5ZVugG8KNZWoC544Vr3lZqD)
+
+### Other
+* [UC ANR Informatics and GIS Program](https://ucanr.edu/program/informatics-and-gis-program)
