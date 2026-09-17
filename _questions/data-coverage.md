@@ -58,7 +58,3 @@ Before going any further with mapping the data, make sure it completely covers t
   * You may need to find a more specific dataset if the data is too general for your area.
 
 This is not an exhaustive list of questions, rather a guide to help you while you search for the data that is best for your project.
-
-<div class="help-box">
-  <h3>Need Help?</h3>
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
