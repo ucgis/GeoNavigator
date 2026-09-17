@@ -82,12 +82,12 @@ a:visited {
 }
 /* Aux links */
 .aux-nav-list-item a {
-color: #005581;
+color: #005581; !important;
 }
  
 /* Hover state */
 .aux-nav-list-item a:hover {
-color: #005581;
+color: #005581; !important;
 }
 // ============================================
 // HOME PAGE
@@ -535,7 +535,7 @@ color: #005581;
 }
 
 .card:hover:not(.card-disabled) .card-content h3 {
-  color: #FFB511;
+  color: #005581;
 }
 
 .card-subtitle {
