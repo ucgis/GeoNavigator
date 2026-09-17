@@ -3,10 +3,12 @@ layout: default
 title: Resource List
 nav_order: 5
 ---
-<details>
-  <summary><strong>Table of Contents</strong></summary>
+## Table of Contents
 {: .no_toc }
-  
+
+<details>
+<summary><strong>Show/Hide Table of Contents</strong></summary>
+
 * TOC
 {:toc}
 
