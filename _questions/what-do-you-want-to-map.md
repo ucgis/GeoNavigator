@@ -137,7 +137,3 @@ We gave you some examples of different types of maps, to see and learn more abou
      style="max-width:200px; width:100%; height:auto;"> 
 
 Great! Now that you have an idea of what kind of map you want to make, let’s continue!  
-
-<div class="help-box">
-  <h3>Need Help?</h3>
-  <p>If you have questions or need assistance, <a href="(https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
