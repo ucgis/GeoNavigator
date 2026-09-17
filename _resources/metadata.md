@@ -56,6 +56,3 @@ Metadata might be attached to a file, or it might be published on a website wher
 * [About ISO](https://www.iso.org/about)   
 * [ISO Geospatial Metadata Standards](https://www.fgdc.gov/metadata/iso-standards)  
 * [Federal Geographic Data Committee (FGDC)](https://www.fgdc.gov/metadata/index_html)
-
-### Need Help?
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
