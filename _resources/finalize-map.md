@@ -56,6 +56,3 @@ There are many considerations involved with making an interactive map. Below are
 * [Building Beautiful Interactive Mapping Applications with ArcGIS Basemap Services](https://www.youtube.com/watch?v=0gekWZy8k3w)  
 * [QGIS](https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html)   
 * [Google Earth: Create engaging map experiences](https://mapsplatform.google.com/solutions/build-immersive-experiences/)
-
-### Need Help?
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
