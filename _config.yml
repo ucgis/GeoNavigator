@@ -48,8 +48,9 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer content
-footer_content: >
-  University of California GeoConnect Working Group
+footer_content: 
+  <p><b>Need Help?</b>  If you have questions or need assistance, <a href="https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing">please contact a GIS specialist at your UC campus.</a></p>
+  <p>Site created by the <a href="https://community-ucgis.hub.arcgis.com/pages/geoconnect">University of California GeoConnect Working Group</a>, members of the <a href="https://libraries.universityofcalifornia.edu/">UC Library System</a>.</p>
   <p>
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
        target="_blank"
