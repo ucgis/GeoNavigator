@@ -82,6 +82,3 @@ It’s possible to represent relative amounts of two attributes at once (e.g. di
 * [GIS: The Exploration and Exploitation Tool](https://www.searchanddiscovery.com/pdfz/documents/barrell02/images/ch18.pdf.html)
 * [What are the Mapping Classification Methods?](https://community.environicsanalytics.com/hc/en-us/articles/13299751591437-What-are-the-Mapping-Classification-Methods)
 * [The Basics of Data Classification](https://www.axismaps.com/guide/data-classification)
-
-### Need Help?
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
