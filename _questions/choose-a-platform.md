@@ -110,6 +110,3 @@ function collapseAll() {
     .forEach(d => d.open = false);
 }
 </script>
-<div class="help-box">
-  <h3>Need Help?</h3>
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
