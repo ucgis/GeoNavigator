@@ -3,6 +3,11 @@ layout: default
 title: Resource List
 nav_order: 5
 ---
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
 
 ## Resources in GeoNavigator
 Below is a list of resources found throughout the GeoNavigator site. As GeoNavigator continues to grow and expand, this page too will grow. Check back for new resources
