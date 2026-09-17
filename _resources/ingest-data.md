@@ -142,6 +142,3 @@ function collapseAll() {
 - [ArcGIS Online: Add Files as Items](https://doc.arcgis.com/en/arcgis-online/manage-data/add-files-as-items.htm)
 - [ArcGIS Pro: Add Data](https://doc.esri.com/en/arcgis-pro/latest/get-started/add-data-to-your-project.html)
 - [QGIS: Basic Map Preparation](https://docs.qgis.org/3.44/en/docs/training_manual/basic_map/preparation.html)
-
-### Need Help?
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
