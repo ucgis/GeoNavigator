@@ -8,9 +8,6 @@ jobs_to_be_done:
   - "Recognize and correct common data quality issues that can affect GIS mapping and analysis."
   - "Prepare and format tabular datasets according to GIS data structure requirements."
 next-steps:
-  - label: "Does your data need to be cleaned?"
-    type: resource
-    ref: cleaning-messy-data
   - label: "Is you data already clean?"
     type: resource
     ref: ingest-data
