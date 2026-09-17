@@ -60,6 +60,3 @@ If you are working in ArcGIS Online and need some of the layout elements, you’
 * [ArcGIS Online: get started with apps](https://doc.arcgis.com/en/arcgis-online/get-started/arcgis-apps.htm)  
 * [Layout in ArcGIS Pro](https://pro.arcgis.com/en/pro-app/3.4/get-started/add-maps-to-a-layout.htm)   
 * [Layout in QGIS](https://docs.qgis.org/3.44/en/docs/training_manual/map_composer/map_composer.html)
-
-### Need Help?
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
