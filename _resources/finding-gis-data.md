@@ -47,6 +47,3 @@ Once you've identified potential data sources, consider these factors when evalu
 - Pay attention to licensing and usage restrictions
 - Document your data sources for reproducibility
 - Don't hesitate to reach out to a GIS librarian for guidance on finding specialized datasets
-
-### Need Help?
-  <p>If you have questions or need assistance, <a href="[https://www.example.com](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing)">please contact us!</a>
