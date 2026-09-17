@@ -10,6 +10,8 @@ nav_order: 5
 * TOC
 {:toc}
 
+---
+
 ## Resources in GeoNavigator
 Below is a list of resources found throughout the GeoNavigator site. As GeoNavigator continues to grow and expand, this page too will grow. Check back for new resources
 
@@ -100,6 +102,8 @@ Below is a list of resources found throughout the GeoNavigator site. As GeoNavig
 * [Formula for converting Degrees Minutes Seconds to Decimal Degrees](https://www.latlong.net/degrees-minutes-seconds-to-decimal-degrees)  
 * [UTM to Latitude and Longitude Convertor](https://www.ngs.noaa.gov/NCAT/)  
 * [Map Projections](https://gistbok-ltb.ucgis.org/page/current/concept/CV-03-006)
+
+---
 
 ## General Resources
 These resources are not tied to any specific pages. But these resources are either created by or used commonly by geospatial librarians and staff to support the wide range of geospatial uses.
