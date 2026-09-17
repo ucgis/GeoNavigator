@@ -76,7 +76,7 @@ a:visited {
   transition: all 0.2s ease;
   
   &:hover {
-    color: #005581;
+    color: #FFB511;
     transform: translateX(-3px);
   }
 }
@@ -87,7 +87,7 @@ color: #005581;
  
 /* Hover state */
 .aux-nav-list-item a:hover {
-color: #005581;
+color: #FFB511;
 }
 // ============================================
 // HOME PAGE
@@ -217,7 +217,7 @@ color: #005581;
   font-size: 1.1rem;
   line-height: 1.7;
   padding: 1.5rem;
-  background: #005581;
+  background: #f9f9fa;
   border-radius: 0.75rem;
   border-left: 4px solid #005581;
 }
@@ -535,7 +535,7 @@ color: #005581;
 }
 
 .card:hover:not(.card-disabled) .card-content h3 {
-  color: #005581;
+  color: #FFB511;
 }
 
 .card-subtitle {
