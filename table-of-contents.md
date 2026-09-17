@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Table of Contents
-nav_order: 6
+nav_order: 2
 ---
 
 # Table of Contents
