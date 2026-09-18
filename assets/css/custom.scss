@@ -460,9 +460,9 @@ color: #005581;
 
 .card-link {
   display: flex;
-  flex-direction: row !important;
-  align-items: flex-start !important;
-  justify-content: space-between !important;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
   min-height: unset;
   padding: 2.5rem;
   text-decoration: none;
