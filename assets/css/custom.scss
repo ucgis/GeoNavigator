@@ -459,22 +459,15 @@ color: #005581;
 
 .card-link {
   display: flex;
-  display: flex;
   flex-direction: row !important;
-  align-items: center !important;
+  align-items: flex-start !important;
   justify-content: space-between !important;
-  align-items: flex-start;
   min-height: unset;
   padding: 2.5rem;
   text-decoration: none;
   color: inherit;
   gap: 1.25rem;
   min-height: 100px;
-}
-
-.card-link {
-  justify-content: flex-start !important;
-  gap: 1rem;
 }
 
 .card-disabled {
