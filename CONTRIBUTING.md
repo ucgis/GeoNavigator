@@ -16,7 +16,7 @@ Issues are used in the GeoNavigator community as a convenient way to document pr
 
 ### Creating an issue
 
-Did you find an issue in GeoNavigator? Looking to suggest a new feature? Add an issue for it in the [issue tracker](https://github.com/GeoNavigator/GeoNavigator/issues).
+Did you find an issue in GeoNavigator? Looking to suggest a new feature? Add an issue for it in the [issue tracker](https://github.com/ucgis/GeoNavigator/issues).
 
 - Make sure you have a [GitHub account](https://github.com/signup/free)
 - Submit a new issue that:
