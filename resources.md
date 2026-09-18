@@ -117,6 +117,9 @@ These resources are not tied to any specific pages. But these resources are eith
 * [UCR Maps and GIS: Maps & Other Geospatial Resources](https://guides.lib.ucr.edu/c.php?g=171041)
 * [UCSD GIS & Geospatial Technologies](https://ucsd.libguides.com/gis)
 
+### Map Examples
+* [UC GIS Virtual Gallery](https://community-ucgis.hub.arcgis.com/pages/about-virtual-gallery)
+
 ### StoryMaps
 * [StoryMaps Guide](https://guides.lib.uci.edu/storymaps)
   
@@ -129,3 +132,4 @@ These resources are not tied to any specific pages. But these resources are eith
 
 ### Other
 * [UC ANR Informatics and GIS Program](https://ucanr.edu/program/informatics-and-gis-program)
+* [UC GIS Hub](https://community-ucgis.hub.arcgis.com/)
