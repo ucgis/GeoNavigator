@@ -118,6 +118,7 @@ These resources are not tied to any specific pages. But these resources are eith
 * [UCSD GIS & Geospatial Technologies](https://ucsd.libguides.com/gis)
 
 ### Map Examples
+* [NACIS Map Gallery](https://nacis.org/awards/map-gallery/)
 * [UC GIS Virtual Gallery](https://community-ucgis.hub.arcgis.com/pages/about-virtual-gallery)
 
 ### StoryMaps
