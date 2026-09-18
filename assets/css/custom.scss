@@ -402,9 +402,10 @@ color: #005581;
 
 .cards-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, 350px);
+  grid-template-columns: repeat(auto-fit, minmax(350px 1fr));
   gap: 2rem;
   justify-content: start;
+  align-items: stretch;
 }
 
 
