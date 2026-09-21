@@ -67,7 +67,7 @@ This:
 
 ### Cleaning Messy Data
 
-* [<strong>OpenRefine</strong>](https://openrefine.org/) — A powerful free, open-source tool for working with messy data: cleaning it, transforming it from one format into another, and extending it.
+* [**OpenRefine**](https://openrefine.org/) — A powerful free, open-source tool for working with messy data: cleaning it, transforming it from one format into another, and extending it.
 
 ### General Resources
 
