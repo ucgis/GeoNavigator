@@ -55,11 +55,9 @@ To successfully use a CSV or Google Sheet in GIS software to make a map:
 
 Not this ...
 
-![Table showing county and ethnicity columns](/assets/images/graph1.png "Table showing county and ethnicity columns")
 
 This:
 
-![Table showing county with ethnicity expanded out into types](/assets/images/graph2.png "Table showing county with ethnicity expanded out into types")
 
 ### Cleaning Messy Data
 
