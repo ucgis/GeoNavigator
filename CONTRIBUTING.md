@@ -32,9 +32,7 @@ In the GeoNavigator community, issue assignment helps signal who is interested i
 
 ## Contributing to the codebase
 
-GeoNavigator welcomes code contributions. You do _not_ need to be a "GeoNavigator Committer" to contribute code or documentation. We follow the [pull request](https://help.github.com/articles/using-pull-requests/) model for contributing on GitHub. GeoNavigator uses a suite of tests to express its features and protect from bugs :bug:.
-
-When proposing major new features or changes that may introduce an API or schema change, please make sure to communicate with the [community](https://GeoNavigator.org/community/) so the full implications are understood. Likely there are ways to introduce these changes in a backwards compatible way that others may be able to help with.
+GeoNavigator welcomes code contributions. You do _not_ need to be a "GeoNavigator Committer" to contribute code or documentation. We follow the [pull request](https://help.github.com/articles/using-pull-requests/) model for contributing on GitHub.
 
 To contribute to our website or documentation pages, see the [GeoNavigator Website Contribution Guide](https://github.com/GeoNavigator/GeoNavigator.github.io/blob/main/CONTRIBUTING.md).
 
@@ -70,6 +68,11 @@ Please take the time to review the changes you made. Make sure that:
 - If your code requires testing, you wrote a new test for it
 - The GitHub Actions CI tests completed successfully
 
-### Who are the GeoNavigator Developers?
+### Merging a Pull Request
+- Please do not merge your own Pull Request - this is considered "poor form."
+- If you are uncertain about an element of your Pull Request, you can bring other contributors into the conversation by creating a comment that includes their @username.
+- If you like the Pull Request but want others to chime in, create a +1 comment and tag a user.
+
+### Who are the GeoNavigator Creators?
 
 The [GeoNavigator Developers](https://github.com/orgs/GeoNavigator/teams/GeoNavigator-developers) team consists of contributors with GitHub privileges to review and merge pull requests (PRs) for the GeoNavigator project. This team brings together individuals with varying types of expertise, including experience in the codebase, documentation, metadata, GIS data, and web services. If you have any questions or need guidance, this team or its individual members are a great starting point. When you submit a PR, a member of this team will review it and, if appropriate, merge it into the project.
