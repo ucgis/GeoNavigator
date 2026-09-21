@@ -4,7 +4,7 @@ sub-title: "Choose the map that best tells your story"
 parent: "previous page"
 permalink: /what-do-you-want-to-map/
 next-steps:
-  - label: "Let Us talk about data!"
+  - label: "Let's talk about data!"
     type: question
     ref: do-you-have-data
 ---
