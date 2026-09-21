@@ -8,7 +8,15 @@ GeoNavigator is a collaborative, open source project where contributions are :sp
 
 ### How to contact us
 
-See the [GeoConnect community page](https://community-ucgis.hub.arcgis.com/pages/geoconnect) on our UC GIS website for information about this project. You can also reach out directly to us using our [Feedback Form](https://forms.gle/Kt7dicLdwbsta6aX6) if you have questions, commments, or want to get more involved.
+See the [GeoConnect community page](https://community-ucgis.hub.arcgis.com/pages/geoconnect) on our UC GIS website for information about this project. You can also reach out directly to us using our [Feedback Form](https://forms.gle/Kt7dicLdwbsta6aX6) if you have questions, comments, or want to get more involved.
+
+## Contributions
+
+To contribute to our [Data Finder](https://docs.google.com/spreadsheets/d/1cOX07oZn7txJwNIMLDJ4_fRj5q0_e2WpGuA5NezYS0g/edit?usp=sharing) by using our [Suggest a Resource](https://docs.google.com/forms/d/e/1FAIpQLSe9mTo2l0brW2_3F0dg70lZa_1ytq64KJbICH5fOs9iVZpBog/viewform?usp=sharing&ouid=104847122299274588111) form. 
+
+Do you have topic ideas, resource suggestions, accessibility concerns, etc. for the GeoNavigator site. Use our [Feedback Form](https://forms.gle/Kt7dicLdwbsta6aX6)
+
+Finished a map? [UC GIS Gallery: Our Work](https://ucgis.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=f13118173a2a4bc29d15a9e918b8f92e&sortField=modified&sortOrder=asc&view=grid) allows for the display of a mix of items, including dashboards, apps, web maps, StoryMaps, and even other sites and pages using the item’s thumbnail and summary. Consider [submitting your work](https://survey123.arcgis.com/share/9d1c4f138e5648f89d783a56901c96cc).
 
 ## Issues
 
@@ -29,12 +37,6 @@ Did you find an issue in GeoNavigator? Looking to suggest a new feature? Add an 
 ### Assigning an issue
 
 In the GeoNavigator community, issue assignment helps signal who is interested in working on an issue or who can assist in moving it forward. If you find an issue you’d like to contribute to, you can assign yourself to it. If an issue is already assigned, you are still welcome to contribute or provide support. Active issues will be marked with a status of “In progress” on our Project boards.
-
-## Contributions
-
-GeoNavigator welcomes code contributions. You do _not_ need to be a "GeoNavigator Committer" to contribute code or documentation. We follow the [pull request](https://help.github.com/articles/using-pull-requests/) model for contributing on GitHub.
-
-To contribute to our website or documentation pages, see the 
 
 ### Pull request overview
 
