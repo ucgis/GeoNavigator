@@ -30,11 +30,11 @@ Did you find an issue in GeoNavigator? Looking to suggest a new feature? Add an 
 
 In the GeoNavigator community, issue assignment helps signal who is interested in working on an issue or who can assist in moving it forward. If you find an issue you’d like to contribute to, you can assign yourself to it. If an issue is already assigned, you are still welcome to contribute or provide support. Active issues will be marked with a status of “In progress” on our Project boards.
 
-## Contributing to the codebase
+## Contributions
 
 GeoNavigator welcomes code contributions. You do _not_ need to be a "GeoNavigator Committer" to contribute code or documentation. We follow the [pull request](https://help.github.com/articles/using-pull-requests/) model for contributing on GitHub.
 
-To contribute to our website or documentation pages, see the [GeoNavigator Website Contribution Guide](https://github.com/GeoNavigator/GeoNavigator.github.io/blob/main/CONTRIBUTING.md).
+To contribute to our website or documentation pages, see the 
 
 ### Pull request overview
 
