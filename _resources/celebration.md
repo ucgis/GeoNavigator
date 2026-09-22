@@ -36,6 +36,9 @@ We encourage you to:
 - [Connect with librarians and GIS specialists](https://docs.google.com/spreadsheets/d/1xkgsnwz5MXEIpD9OMWajIPKpSdTdlb7THoeWCirHR7A/edit?usp=sharing) at your campus.
 - [Share feedback and suggestions](https://forms.gle/Kt7dicLdwbsta6aX6) to help improve this resource for future users.
 
+## UC GIS Gallery: Our Work
+Finished a map? [UC GIS Gallery: Our Work](https://ucgis.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=f13118173a2a4bc29d15a9e918b8f92e&sortField=modified&sortOrder=asc&view=grid) allows for the display of a mix of items, including dashboards, apps, web maps, StoryMaps, and even other sites and pages using the item’s thumbnail and summary. Consider [submitting your work](https://survey123.arcgis.com/share/9d1c4f138e5648f89d783a56901c96cc).
+
 ## Your participation contributes to a broader vision of:
 - Connecting geospatial resources across the UC system
 - Supporting teaching, learning, and research with GIS
